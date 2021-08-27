@@ -1,0 +1,4 @@
+<<< Dependências instaladas >>>
+express
+nodemon -D
+uuid
